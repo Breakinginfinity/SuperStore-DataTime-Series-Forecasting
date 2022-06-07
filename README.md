@@ -28,7 +28,7 @@ From the two forecasts we generated we can say that both the sales show a simila
 From the forecasts we’ve seen for the two sales category we can say that the data is spread wide around the regression line making it difficult to predict accurate sales values. This can be improved with help of model boosting and further cleaning the data. Seasonal ARIMA forecasting uses time series data and this helps in avoiding problems that are associated with multivariate models. Seasonal ARIMA model was very useful in getting proper analysis and in getting better results. We could have improved the MSE value to a bit low by getting more data and achieved much better results.
 
 ## References
-• [A Guide to Time Series Data Forecasting with ARIMA in Python3](uhttps://www.digitalocean.com/community/tutorials/a-guide-to-time-series-forecasting-with-arima-in-python-3rl)
+• [A Guide to Time Series Data Forecasting with ARIMA in Python3](https://www.digitalocean.com/community/tutorials/a-guide-to-time-series-forecasting-with-arima-in-python-3)
 
 • [A Gentle Introduction to SARIMA for Time Series Forecasting in Python](https://machinelearningmastery.com/sarima-for-time-series-forecasting-in-python/)
 
